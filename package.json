@@ -1,0 +1,15 @@
+{
+  "name": "morning-shout",
+  "version": "1.0.0",
+  "description": "Morning shout discord bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Erik Alfredsson",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "dotenv": "^8.2.0"
+  }
+}
